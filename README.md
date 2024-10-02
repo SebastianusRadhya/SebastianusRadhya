@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AI and Data Science</b>
+  - [Titanic Machine Learning from Disaster Competition](https://github.com/SebastianusRadhya/Titanic-Competition)
   - [Zoom Stock Prediction](https://github.com/SebastianusRadhya/ZoomStockPrediction)
   - [Automatic Text Summarizer](https://github.com/SebastianusRadhya/Automatic-Text-Summarizer)
 - <b>Multimedia</b>
