@@ -1,4 +1,4 @@
-<h1>Hi, I'm Radhya! <br/><a href="https://github.com/SebastianusRadhya">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist</a></h1>
+<h1>Hi, I'm Radhya! <br/>Programmer, Data Scientist, Data Analyst</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
